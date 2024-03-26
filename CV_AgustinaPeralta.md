@@ -11,8 +11,8 @@
   - Escuela de Enseñanza Media N° 204 "Domingo de Oro"
 
 - **Estudios Universitarios:**
-  - Estudiante de la Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional (UTN) - Facultad Regional Rafaela
-  - 
+  - Estudiante de la Tecnicatura Universitaria en Programación - Universidad Tecnológica Nacional - Facultad Regional Rafaela, 2022 - actualidad
+
 - **Certificaciones**
-- **Curso Programacion Web Full Stack:** Digital House, 2023-2024
+- Curso Programacion Web Full Stack - Digital House, 2023-2024
 
