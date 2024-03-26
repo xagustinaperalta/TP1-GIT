@@ -1,4 +1,4 @@
 INTEGRANTES: 
 - Paula Medrano 
-- Selena Pagliero 
+- [Selena Pagliero](https://github.com/xagustinaperalta/TP1-GIT/blob/devSelena/CV_SelenaPagliero.md) 
 - [Agustina Peralta](https://github.com/xagustinaperalta/TP1-GIT/blob/devAgustina/CV_AgustinaPeralta.md)
